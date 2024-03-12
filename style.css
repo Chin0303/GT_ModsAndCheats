@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: #699bd0;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.modscheats-info-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h1, h2, h3 {
+    color: #333;
+    margin-bottom: 10px;
+}
+p {
+    color: #666666;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+.info-section {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.info-section:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+.info-section h2 {
+    margin-top: 0;
+    color: #323e4b;
+}
+.notice h3 {
+    color: #747474;
+    margin-top: 0;
+    text-align: center;
+    font-size: smaller;
+}
